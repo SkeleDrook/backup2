@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Executables
+*.out
+
+# Temp files
+*.swp
+*.tmp
+
+# Debug files
+*.dSYM/
+
+# Ignore History and Mac name
+.history/
+__MACOSX/
